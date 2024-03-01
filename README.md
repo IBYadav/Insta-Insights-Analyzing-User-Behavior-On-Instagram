@@ -1,5 +1,5 @@
 # Insta-Insights-Analyzing-User-Behavior-On-Instagram
-In the vast realm of Instagram, John, a data enthusiast, embarks on a thrilling adventure. With Python and SQL by his side, he dives into Instagram's complex data, filled with hidden insights about how users interact on the platform.
+In the vast realm of Instagram,  data enthusiast, embarks on a thrilling adventure. With Python and SQL by his side, he dives into Instagram's complex data, filled with hidden insights about how users interact on the platform.
 
 Starting with Python, John meticulously cleans the data, making it clearer and more organized. Missing info disappears, and inconsistencies fade away. It's not just cleaning data; it's like turning a dusty old book into a new and exciting story.
 
